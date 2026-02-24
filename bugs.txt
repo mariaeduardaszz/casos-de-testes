@@ -1,8 +1,0 @@
-bugs repotados:
-
-- quando pressiona enter ele apaga o campo
-- declara cpf ja utilixado mas quando vai fazer login apresenta que esta incorreto
- mesmo utilizando a mesma senha com email e cpf
-- delay ao carregar pagina
-- ao digitar nome social botao de "proximo" para proxima pagina não funciona
-
